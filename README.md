@@ -44,7 +44,9 @@ Screenshots
 
 2. Profile Setup
   
-<img width="906" height="1283" alt="image" src="https://github.com/user-attachments/assets/17de118e-ce80-4321-af95-becf6b286363" />
+
+<img width="725" height="1026" alt="Screenshot 2026-06-14 122503" src="https://github.com/user-attachments/assets/05e9f582-53bb-4634-8243-266a661d1fac" />
+
  
 <img width="788" height="716" alt="image" src="https://github.com/user-attachments/assets/b2875b1d-6615-4a42-98a9-538a556d3b8a" />
 
